@@ -139,7 +139,7 @@ def to_edges(node):
         yield last, current
         last = current
 
-""" def multiInputHeuristic(node):
+def multiInputHeuristic(node):
     G = networkx.Graph()
     for part in node:
         # each sublist is a bunch of nodes
@@ -147,7 +147,7 @@ def to_edges(node):
         # it also implies a number of edges:
         G.add_edges_from(to_edges(part))
     return G
- """
+
 
 
 """
