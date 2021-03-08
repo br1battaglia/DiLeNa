@@ -1,0 +1,12 @@
+ANALISI:
+
+RIPPLE: python3 main.py -graph="../../graph-downloader/res/xrp.net" -result="xrpResults" -process=1 -weight=true
+DOGE: python3 main.py -graph="../../graph-downloader/res/doge.net" -result="dogeResults" -process=1 -weight=true
+ETHEREUM: python3 main.py -graph="../../graph-downloader/res/ethereum.net" -result="ethereumResults" -process=1 -weight=true
+
+
+DOWNLOAD:
+
+ETHEREUM: ./main.sh -file eth -api 'XPPHKCBEMHJ66ESHVSUYNIXQXVBTQ66MAT' -start "2020-04-01-00:00:00" -end "2020-04-01-00:01:00" -res 'res/ethereum.net' -cores 8
+DOGE: ./main.sh -file sochain -blockchain doge -start "2020-04-01-00:00:00" -end "2020-04-01-00:01:00" -res 'res/doge.net' -cores 8
+LITECOIN: ./main.sh -file sochain -blockchain ltc -start "2020-04-01-00:00:00" -end "2020-04-01-00:01:00" -res 'res/ltc.net' -cores 8

@@ -1,0 +1,103 @@
+[2021-02-25 09:26:29] Start loading graph
+[2021-02-25 09:26:29] Terminated graph loading
+[2021-02-25 09:26:29] Start metrics computing for complete loaded graph
+[2021-02-25 09:26:29] Nodes number calculated
+[2021-02-25 09:26:29] Edges number calculated
+[2021-02-25 09:26:29] Clustering coefficient calculated
+[2021-02-25 09:26:29] Degree distribution tot calculated
+[2021-02-25 09:26:29] Degree distribution in calculated
+[2021-02-25 09:26:29] Degree distribution out calculated
+[2021-02-25 09:26:29] Terminated metrics computing for complete loaded graph
+[2021-02-25 09:26:29] Start metrics computing for main component of loaded graph
+[2021-02-25 09:26:29] Nodes number calculated
+[2021-02-25 09:26:29] Edges number calculated
+[2021-02-25 09:26:29] Clustering coefficient calculated
+[2021-02-25 09:26:29] Degree distribution tot calculated
+[2021-02-25 09:26:29] Degree distribution in calculated
+[2021-02-25 09:26:29] Degree distribution out calculated
+[2021-02-25 09:26:29] Average path length calculated
+[2021-02-25 09:26:29] Terminated metrics computing for main component of loaded graph
+[2021-02-25 09:26:40] Start loading graph
+[2021-02-25 09:26:40] Terminated graph loading
+[2021-02-25 09:26:40] Start metrics computing for complete loaded graph
+[2021-02-25 09:26:40] Nodes number calculated
+[2021-02-25 09:26:40] Edges number calculated
+[2021-02-25 09:26:40] Clustering coefficient calculated
+[2021-02-25 09:26:40] Degree distribution tot calculated
+[2021-02-25 09:26:40] Degree distribution in calculated
+[2021-02-25 09:26:40] Degree distribution out calculated
+[2021-02-25 09:26:40] Terminated metrics computing for complete loaded graph
+[2021-02-25 09:26:40] Start metrics computing for main component of loaded graph
+[2021-02-25 09:26:40] Nodes number calculated
+[2021-02-25 09:26:40] Edges number calculated
+[2021-02-25 09:26:40] Clustering coefficient calculated
+[2021-02-25 09:26:40] Degree distribution tot calculated
+[2021-02-25 09:26:40] Degree distribution in calculated
+[2021-02-25 09:26:40] Degree distribution out calculated
+[2021-02-25 09:26:40] Average path length calculated
+[2021-02-25 09:26:40] Terminated metrics computing for main component of loaded graph
+[2021-02-25 09:26:40] Metrics computed for loaded graph
+[2021-02-25 09:26:40] Start creating random graph
+[2021-02-25 09:26:40] Terminated random graph creation
+[2021-02-25 09:26:40] Start metrics computing for complete random graph
+[2021-02-25 09:26:40] Nodes number calculated
+[2021-02-25 09:26:40] Edges number calculated
+[2021-02-25 09:26:40] Clustering coefficient calculated
+[2021-02-25 09:26:40] Degree distribution tot calculated
+[2021-02-25 09:26:40] Degree distribution in calculated
+[2021-02-25 09:26:40] Degree distribution out calculated
+[2021-02-25 09:26:40] Terminated metrics computing for complete random graph
+[2021-02-25 09:26:40] Start metrics computing for main component of random graph
+[2021-02-25 09:26:40] Nodes number calculated
+[2021-02-25 09:26:40] Edges number calculated
+[2021-02-25 09:26:40] Clustering coefficient calculated
+[2021-02-25 09:26:40] Degree distribution tot calculated
+[2021-02-25 09:26:40] Degree distribution in calculated
+[2021-02-25 09:26:40] Degree distribution out calculated
+[2021-02-25 09:26:40] Average path length calculated
+[2021-02-25 09:26:40] Terminated metrics computing for main component of random graph
+[2021-02-25 09:26:40] Metrics computed for random graph
+[2021-02-25 09:26:40] Start saving metrics
+[2021-02-25 09:26:40] Metrics saved in file: dogeResults
+[2021-02-25 09:27:00] Start loading graph
+[2021-02-25 09:27:00] Terminated graph loading
+[2021-02-25 09:27:00] Start metrics computing for complete loaded graph
+[2021-02-25 09:27:00] Nodes number calculated
+[2021-02-25 09:27:00] Edges number calculated
+[2021-02-25 09:27:00] Clustering coefficient calculated
+[2021-02-25 09:27:00] Degree distribution tot calculated
+[2021-02-25 09:27:00] Degree distribution in calculated
+[2021-02-25 09:27:00] Degree distribution out calculated
+[2021-02-25 09:27:00] Terminated metrics computing for complete loaded graph
+[2021-02-25 09:27:00] Start metrics computing for main component of loaded graph
+[2021-02-25 09:27:00] Nodes number calculated
+[2021-02-25 09:27:00] Edges number calculated
+[2021-02-25 09:27:00] Clustering coefficient calculated
+[2021-02-25 09:27:00] Degree distribution tot calculated
+[2021-02-25 09:27:00] Degree distribution in calculated
+[2021-02-25 09:27:00] Degree distribution out calculated
+[2021-02-25 09:27:00] Average path length calculated
+[2021-02-25 09:27:00] Terminated metrics computing for main component of loaded graph
+[2021-02-25 09:27:00] Metrics computed for loaded graph
+[2021-02-25 09:27:00] Start creating random graph
+[2021-02-25 09:27:00] Terminated random graph creation
+[2021-02-25 09:27:00] Start metrics computing for complete random graph
+[2021-02-25 09:27:00] Nodes number calculated
+[2021-02-25 09:27:00] Edges number calculated
+[2021-02-25 09:27:00] Clustering coefficient calculated
+[2021-02-25 09:27:00] Degree distribution tot calculated
+[2021-02-25 09:27:00] Degree distribution in calculated
+[2021-02-25 09:27:00] Degree distribution out calculated
+[2021-02-25 09:27:00] Terminated metrics computing for complete random graph
+[2021-02-25 09:27:00] Start metrics computing for main component of random graph
+[2021-02-25 09:27:00] Nodes number calculated
+[2021-02-25 09:27:00] Edges number calculated
+[2021-02-25 09:27:00] Clustering coefficient calculated
+[2021-02-25 09:27:00] Degree distribution tot calculated
+[2021-02-25 09:27:00] Degree distribution in calculated
+[2021-02-25 09:27:00] Degree distribution out calculated
+[2021-02-25 09:27:00] Average path length calculated
+[2021-02-25 09:27:00] Terminated metrics computing for main component of random graph
+[2021-02-25 09:27:00] Metrics computed for random graph
+[2021-02-25 09:27:00] Start saving metrics
+[2021-02-25 09:27:00] Metrics saved in file: dogeResults

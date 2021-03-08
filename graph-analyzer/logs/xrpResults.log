@@ -1,0 +1,19 @@
+[2021-02-25 09:25:17] Start loading graph
+[2021-02-25 09:25:17] Terminated graph loading
+[2021-02-25 09:25:17] Start metrics computing for complete loaded graph
+[2021-02-25 09:25:17] Nodes number calculated
+[2021-02-25 09:25:17] Edges number calculated
+[2021-02-25 09:25:17] Clustering coefficient calculated
+[2021-02-25 09:25:17] Degree distribution tot calculated
+[2021-02-25 09:25:17] Degree distribution in calculated
+[2021-02-25 09:25:17] Degree distribution out calculated
+[2021-02-25 09:25:17] Terminated metrics computing for complete loaded graph
+[2021-02-25 09:25:17] Start metrics computing for main component of loaded graph
+[2021-02-25 09:25:17] Nodes number calculated
+[2021-02-25 09:25:17] Edges number calculated
+[2021-02-25 09:25:17] Clustering coefficient calculated
+[2021-02-25 09:25:17] Degree distribution tot calculated
+[2021-02-25 09:25:17] Degree distribution in calculated
+[2021-02-25 09:25:17] Degree distribution out calculated
+[2021-02-25 09:25:17] Average path length calculated
+[2021-02-25 09:25:17] Terminated metrics computing for main component of loaded graph
