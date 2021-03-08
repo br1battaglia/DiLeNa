@@ -6,6 +6,7 @@ import time
 from collections import Counter
 import networkx
 import json
+import os
 
 
 
@@ -252,7 +253,8 @@ for batch in parallelRes:
 
 clusterH1 = multiInputHeuristic(multiInputTx)
 clusterH2 = changeAddressHeuristic(multiOutputTx)
-print(clusterH2)
+
+os.makedirs(os.path.dirname(fileRes), exist_ok=True)
 
 with open(fileRes, 'w') as f:	
 	print ("Saving the graph in " + fileRes)	
