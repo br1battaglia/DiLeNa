@@ -178,7 +178,7 @@ def changeAddressHeuristic(node):
 					address.append(outputNode)
 					changeTransaction = True """
 			#H2c 
-			if tx['data']['txs'][-1]['time'] == date and tx['data']['total_txs'] == 1 and changeTransaction == False and 'outgoing' in tx['data']['txs'][0]:
+			if tx['data']['txs'][-1]['time'] == date and tx['data']['total_txs'] == 2 and changeTransaction == False and 'outgoing' in tx['data']['txs'][0]:
 				address.append(outputNode)
 				changeTransaction = True
 			if tx['data']['txs'][-1]['time'] == date and tx['data']['total_txs'] == 2 and changeTransaction == True:
